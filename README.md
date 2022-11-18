@@ -6,9 +6,7 @@ To perform code refraction on a mock web page and deploy the website to my Githu
 
 ### User Story
 
-```
 Web accessibility is increasingly important to help people with differing abilities to use the website effectively and easily.
-```
 
 ### Acceptance Criteria
 
