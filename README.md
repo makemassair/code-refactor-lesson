@@ -2,7 +2,7 @@
 
 ## My Task
 
-To perform code refraction on a mock web page and deploy the website to my Githu to improve web accessibility.
+To perform code refraction on a mock web page and deploy the website to my Github to improve web accessibility.
 
 ### User Story
 
@@ -16,3 +16,14 @@ Web accessibility is increasingly important to help people with differing abilit
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
+### Screenshot
+
+![image](../assets/images/screenshot.jpg)
+
+### Deployed Application Link
+
+View the deployed application for week 1's Office Hours challenge by visiting [link](https://makemassair.github.io/code-refactor-lesson)
+
+### Credits 
+
+N/A
