@@ -18,11 +18,11 @@ Web accessibility is increasingly important to help people with differing abilit
 
 ### Screenshot
 
-![image](../assets/images/screenshot.jpg)
+![image](assets/images/screenshot.jpg)
 
 ### Deployed Application Link
 
-View the deployed application for week 1's Office Hours challenge by visiting [link](https://makemassair.github.io/code-refactor-lesson)
+View the deployed application for week 1's Office Hours challenge by visiting the following [URL](https://makemassair.github.io/code-refactor-lesson)
 
 ### Credits 
 
