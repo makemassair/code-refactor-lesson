@@ -16,14 +16,10 @@ Web accessibility is increasingly important to help people with differing abilit
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
+### Deployed Application
+
+View the deployed application for the bootcamp's fist challenge by visiting [makemassair.github.io](https://makemassair.github.io/code-refactor-lesson).
+
 ### Screenshot
 
 ![image](assets/images/screenshot.jpg)
-
-### Deployed Application Link
-
-View the deployed application for week 1's Office Hours challenge by visiting the following [URL](https://makemassair.github.io/code-refactor-lesson)
-
-### Credits 
-
-N/A
