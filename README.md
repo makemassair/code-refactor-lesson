@@ -18,7 +18,7 @@ Web accessibility is increasingly important to help people with differing abilit
 
 ### Deployed Application
 
-View the deployed application for the bootcamp's fist challenge by visiting [makemassair.github.io](https://makemassair.github.io/code-refactor-lesson).
+View the deployed application for the bootcamp's first challenge by visiting [makemassair.github.io](https://makemassair.github.io/code-refactor-lesson).
 
 ### Screenshot
 
